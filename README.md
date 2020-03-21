@@ -1,5 +1,6 @@
 # How to Setup
 ```
-$ git clone https://github.com/t29mato/dotfiles.git
-$ ./dotfiles
-$ ./setup.sh
+git clone https://github.com/t29mato/dotfiles.git
+cd ./dotfiles
+./setup.sh
+```
